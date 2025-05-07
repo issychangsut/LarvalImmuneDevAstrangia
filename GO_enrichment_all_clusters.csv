@@ -1,0 +1,101 @@
+GO.ID,Term,Annotated,Significant,Expected,classicFisher,Full_Term
+GO:0001816,cytokine production,42,40,35.11,0.013,cytokine production
+GO:0001817,regulation of cytokine production,42,40,35.11,0.013,regulation of cytokine production
+GO:0002263,cell activation involved in immune respo...,22,22,18.39,0.015,cell activation involved in immune response
+GO:0050727,regulation of inflammatory response,22,22,18.39,0.015,regulation of inflammatory response
+GO:0002366,leukocyte activation involved in immune ...,21,21,17.55,0.018,leukocyte activation involved in immune response
+GO:0044093,positive regulation of molecular functio...,21,21,17.55,0.018,positive regulation of molecular function
+GO:0006909,phagocytosis,16,16,13.37,0.050,phagocytosis
+GO:0002440,production of molecular mediator of immu...,15,15,12.54,0.061,production of molecular mediator of immune response
+GO:0043085,positive regulation of catalytic activit...,15,15,12.54,0.061,positive regulation of catalytic activity
+GO:0051239,regulation of multicellular organismal p...,74,66,61.86,0.071,regulation of multicellular organismal process
+GO:0002275,myeloid cell activation involved in immu...,14,14,11.7,0.074,myeloid cell activation involved in immune response
+GO:0010628,positive regulation of gene expression,39,36,32.6,0.074,positive regulation of gene expression
+GO:0001819,positive regulation of cytokine producti...,23,22,19.23,0.076,positive regulation of cytokine production
+GO:0002252,immune effector process,38,35,31.76,0.085,immune effector process
+GO:0032481,positive regulation of type I interferon...,13,13,10.87,0.090,positive regulation of type I interferon production
+GO:0032635,interleukin-6 production,13,13,10.87,0.090,interleukin-6 production
+GO:0032675,regulation of interleukin-6 production,13,13,10.87,0.090,regulation of interleukin-6 production
+GO:0050764,regulation of phagocytosis,13,13,10.87,0.090,regulation of phagocytosis
+GO:0006508,proteolysis,29,27,24.24,0.104,proteolysis
+GO:0002274,myeloid leukocyte activation,21,20,17.55,0.105,myeloid leukocyte activation
+GO:0048167,regulation of synaptic plasticity,4,3,0.33,0.0017,regulation of synaptic plasticity
+GO:0048873,homeostasis of number of cells within a ...,4,3,0.33,0.0017,homeostasis of number of cells within a tissue
+GO:0050806,positive regulation of synaptic transmis...,4,3,0.33,0.0017,positive regulation of synaptic transmission
+GO:0000302,response to reactive oxygen species,9,4,0.74,0.0030,response to reactive oxygen species
+GO:0002931,response to ischemia,5,3,0.41,0.0041,response to ischemia
+GO:0043010,camera-type eye development,2,2,0.16,0.0063,camera-type eye development
+GO:0072089,stem cell proliferation,2,2,0.16,0.0063,stem cell proliferation
+GO:0072091,regulation of stem cell proliferation,2,2,0.16,0.0063,regulation of stem cell proliferation
+GO:2000648,positive regulation of stem cell prolife...,2,2,0.16,0.0063,positive regulation of stem cell proliferation
+GO:0001894,tissue homeostasis,6,3,0.49,0.0079,tissue homeostasis
+GO:0060249,anatomical structure homeostasis,6,3,0.49,0.0079,anatomical structure homeostasis
+GO:0006357,regulation of transcription by RNA polym...,33,7,2.71,0.0079,regulation of transcription by RNA polymerase II
+GO:0048871,multicellular organismal-level homeostas...,18,5,1.48,0.0087,multicellular organismal-level homeostasis
+GO:0010562,positive regulation of phosphorus metabo...,12,4,0.98,0.0102,positive regulation of phosphorus metabolic process
+GO:0045937,positive regulation of phosphate metabol...,12,4,0.98,0.0102,positive regulation of phosphate metabolic process
+GO:0019219,regulation of nucleobase-containing comp...,64,10,5.25,0.0109,regulation of nucleobase-containing compound metabolic process
+GO:0050804,modulation of chemical synaptic transmis...,7,3,0.57,0.0131,modulation of chemical synaptic transmission
+GO:0099177,regulation of trans-synaptic signaling,7,3,0.57,0.0131,regulation of trans-synaptic signaling
+GO:0045892,negative regulation of DNA-templated tra...,13,4,1.07,0.0140,negative regulation of DNA-templated transcription
+GO:0060322,head development,13,4,1.07,0.0140,head development
+GO:1901990,regulation of mitotic cell cycle phase t...,12,4,0.68,0.0022,regulation of mitotic cell cycle phase transition
+GO:1901991,negative regulation of mitotic cell cycl...,7,3,0.39,0.0042,negative regulation of mitotic cell cycle phase transition
+GO:2000045,regulation of G1/S transition of mitotic...,7,3,0.39,0.0042,regulation of G1/S transition of mitotic cell cycle
+GO:0044772,mitotic cell cycle phase transition,14,4,0.79,0.0042,mitotic cell cycle phase transition
+GO:0035556,intracellular signal transduction,80,9,4.51,0.0059,intracellular signal transduction
+GO:0045930,negative regulation of mitotic cell cycl...,8,3,0.45,0.0065,negative regulation of mitotic cell cycle
+GO:1902806,regulation of cell cycle G1/S phase tran...,8,3,0.45,0.0065,regulation of cell cycle G1/S phase transition
+GO:1901987,regulation of cell cycle phase transitio...,16,4,0.9,0.0072,regulation of cell cycle phase transition
+GO:0010564,regulation of cell cycle process,26,5,1.47,0.0076,regulation of cell cycle process
+GO:0008631,intrinsic apoptotic signaling pathway in...,3,2,0.17,0.0085,intrinsic apoptotic signaling pathway in response to oxidative stress
+GO:0030048,actin filament-based movement,3,2,0.17,0.0085,actin filament-based movement
+GO:0007346,regulation of mitotic cell cycle,17,4,0.96,0.0091,regulation of mitotic cell cycle
+GO:0000082,G1/S transition of mitotic cell cycle,9,3,0.51,0.0094,G1/S transition of mitotic cell cycle
+GO:0030029,actin filament-based process,9,3,0.51,0.0094,actin filament-based process
+GO:0044770,cell cycle phase transition,18,4,1.02,0.0113,cell cycle phase transition
+GO:0022402,cell cycle process,29,5,1.64,0.0126,cell cycle process
+GO:0034330,cell junction organization,10,3,0.56,0.0130,cell junction organization
+GO:0044843,cell cycle G1/S phase transition,10,3,0.56,0.0130,cell cycle G1/S phase transition
+GO:1901988,negative regulation of cell cycle phase ...,10,3,0.56,0.0130,negative regulation of cell cycle phase transition
+GO:1903047,mitotic cell cycle process,19,4,1.07,0.0139,mitotic cell cycle process
+GO:0034121,regulation of toll-like receptor signali...,2,2,0.03,0.00016,regulation of toll-like receptor signaling pathway
+GO:0034122,negative regulation of toll-like recepto...,2,2,0.03,0.00016,negative regulation of toll-like receptor signaling pathway
+GO:0071347,cellular response to interleukin-1,6,2,0.09,0.00235,cellular response to interleukin-1
+GO:0002224,toll-like receptor signaling pathway,7,2,0.11,0.00327,toll-like receptor signaling pathway
+GO:0070555,response to interleukin-1,7,2,0.11,0.00327,response to interleukin-1
+GO:0001960,negative regulation of cytokine-mediated...,9,2,0.14,0.00557,negative regulation of cytokine-mediated signaling pathway
+GO:0060761,negative regulation of response to cytok...,9,2,0.14,0.00557,negative regulation of response to cytokine stimulus
+GO:0071396,cellular response to lipid,10,2,0.15,0.00694,cellular response to lipid
+GO:0000375,RNA splicing, via transesterification re...,11,2,0.17,0.00845,RNA splicing, via transesterification reactions
+GO:0000377,RNA splicing, via transesterification re...,11,2,0.17,0.00845,RNA splicing, via transesterification reactions with bulged adenosine as nucleophile
+GO:0000398,mRNA splicing, via spliceosome,11,2,0.17,0.00845,mRNA splicing, via spliceosome
+GO:0008380,RNA splicing,13,2,0.2,0.01190,RNA splicing
+GO:0062207,regulation of pattern recognition recept...,13,2,0.2,0.01190,regulation of pattern recognition receptor signaling pathway
+GO:0001959,regulation of cytokine-mediated signalin...,14,2,0.22,0.01383,regulation of cytokine-mediated signaling pathway
+GO:0006397,mRNA processing,14,2,0.22,0.01383,mRNA processing
+GO:0030520,estrogen receptor signaling pathway,1,1,0.02,0.01538,estrogen receptor signaling pathway
+GO:0031664,regulation of lipopolysaccharide-mediate...,1,1,0.02,0.01538,regulation of lipopolysaccharide-mediated signaling pathway
+GO:0031665,negative regulation of lipopolysaccharid...,1,1,0.02,0.01538,negative regulation of lipopolysaccharide-mediated signaling pathway
+GO:0032717,negative regulation of interleukin-8 pro...,1,1,0.02,0.01538,negative regulation of interleukin-8 production
+GO:0035914,skeletal muscle cell differentiation,1,1,0.02,0.01538,skeletal muscle cell differentiation
+GO:0006337,nucleosome disassembly,1,1,0.01,0.010,nucleosome disassembly
+GO:0032729,positive regulation of type II interfero...,1,1,0.01,0.010,positive regulation of type II interferon production
+GO:0032986,protein-DNA complex disassembly,1,1,0.01,0.010,protein-DNA complex disassembly
+GO:0043353,enucleate erythrocyte differentiation,1,1,0.01,0.010,enucleate erythrocyte differentiation
+GO:0032609,type II interferon production,2,1,0.02,0.020,type II interferon production
+GO:0032649,regulation of type II interferon product...,2,1,0.02,0.020,regulation of type II interferon production
+GO:0001889,liver development,3,1,0.03,0.031,liver development
+GO:0001909,leukocyte mediated cytotoxicity,3,1,0.03,0.031,leukocyte mediated cytotoxicity
+GO:0002228,natural killer cell mediated immunity,3,1,0.03,0.031,natural killer cell mediated immunity
+GO:0042267,natural killer cell mediated cytotoxicit...,3,1,0.03,0.031,natural killer cell mediated cytotoxicity
+GO:0061008,hepaticobiliary system development,3,1,0.03,0.031,hepaticobiliary system development
+GO:0001906,cell killing,4,1,0.04,0.041,cell killing
+GO:0002227,innate immune response in mucosa,4,1,0.04,0.041,innate immune response in mucosa
+GO:0032984,protein-containing complex disassembly,4,1,0.04,0.041,protein-containing complex disassembly
+GO:0030218,erythrocyte differentiation,5,1,0.05,0.051,erythrocyte differentiation
+GO:0034101,erythrocyte homeostasis,5,1,0.05,0.051,erythrocyte homeostasis
+GO:0034728,nucleosome organization,5,1,0.05,0.051,nucleosome organization
+GO:0061844,antimicrobial humoral immune response me...,5,1,0.05,0.051,antimicrobial humoral immune response mediated by antimicrobial peptide
+GO:0071824,protein-DNA complex organization,5,1,0.05,0.051,protein-DNA complex organization
+GO:0045739,positive regulation of DNA repair,6,1,0.06,0.061,positive regulation of DNA repair
